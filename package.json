@@ -1,0 +1,18 @@
+{
+  "name": "stable-diffusion",
+  "version": "1.0.0",
+  "description": "Text to image prompt with Stable Diffusion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "AI",
+    "Text",
+    "to",
+    "image"
+  ],
+  "author": "Luke Harby",
+  "license": "ISC"
+}
